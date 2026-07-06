@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://aqiqahamanah.id/sitemap.xml
